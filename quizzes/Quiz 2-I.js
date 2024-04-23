@@ -1,3 +1,4 @@
+
 function hasCycle(head) {
     if (!head || !head.next) {
         return false;
